@@ -93,7 +93,7 @@ header {
 
 .header-right {
   float: right;
-  background-color: rgba(34, 49, 52, 0.2);
+  background-color: rgba(34, 49, 52, 0.1);
   transition: all 0.5s;
 }
 
