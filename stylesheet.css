@@ -93,7 +93,7 @@ header {
 
 .header-right {
   float: right;
-  background-color: rgba(34, 49, 52, 0.5);
+  background-color: rgba(34, 49, 52, 0.3);
   transition: all 0.5s;
 }
 
@@ -132,7 +132,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 80px;
+  top: 75px;
   width: 100%;
   color: white;
   opacity: 1;
