@@ -1,11 +1,3 @@
-/* Reset CSS (JANGAN DIHAPUS) */
-html, body,
-ul, ol, li,
-h1, h2, h3, h4, h5, h6, p, div {
-  margin: 0;
-  padding: 0;
-}
-
 body {
   font-family: "Lucida Grande";
 }
@@ -27,7 +19,7 @@ a {
 }
 
 .container {
-  width: 100%;
+  width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
 }
